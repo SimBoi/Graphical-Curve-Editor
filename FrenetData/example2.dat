@@ -1,0 +1,13 @@
+#
+# This is the helix curve, but this time its curvature increases all the time!
+# Avoid t = -1!
+#
+sin( t ) / ( 1 + t )
+cos( t ) / ( 1 + t )
+t / 20
+
+#
+# And its domain:
+#
+0	18.8496
+

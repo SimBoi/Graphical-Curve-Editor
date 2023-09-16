@@ -1,0 +1,10 @@
+# This is a harmonic function of a kind which sometimes occurs in
+# orbital mechanics.  The coefficients and constants are arbitrary,
+# and you are encouraged to alter them.
+#
+sin(1.550 * t) * cos(2.130 * t) + sin(0.950 * t) * cos(0.760 * t) + 0.125
+sin(0.113 * t) * cos(0.005 * t) + sin(1.667 * t) * cos(1.541 * t) + 0.324
+sin(0.936 * t) * cos(2.500 * t) + sin(1.000 * t) * cos(0.435 * t) + 0.975
+# Range is zero to 4 * pi.  This curve is not likely to be closed, so
+# adjusting the ranges in either direction will produce more convolution.
+0 12.56

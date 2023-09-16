@@ -1,0 +1,14 @@
+#
+#  File:	sujit.dat
+#  Desc:	frenet parametric functions for cs667 lab3
+#		looks like a flower
+#  Author:	Sujit Verma
+#		University of Utah
+#		Department of Computer Science
+#  Date:	Nov 20, 1991 
+#
+sin(4*t) + cos(t)
+cos(4*t) + sin(t)
+0.15*t^2  
+-3.28  3
+

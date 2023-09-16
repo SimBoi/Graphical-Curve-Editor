@@ -1,0 +1,13 @@
+#
+#   Sue Skowronski
+#
+#  CAGD - Homework #3
+#
+# This has a 3d "loop-de-loop" in it.
+# Curvature increases in inner loop.
+#
+sin(3*t)
+cos(3*t) * sin(t)
+0.25*cos(t*4)
+#
+0 3.14159

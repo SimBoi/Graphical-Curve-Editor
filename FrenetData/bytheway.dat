@@ -1,0 +1,12 @@
+#
+#  File:	bytheway.dat
+#  Desc:	frenet parametric functions for cs667 lab3
+#  Author:	Sid Bytheway
+#		University of Utah
+#		Department of Computer Science
+#  Date:	Nov 9, 1989
+#
+(t*cos(30.14159*t)+(t/2)^3)/3.1
+(t*sin(30.14159*t)+(t/2)^3)/3.1
+t/2.1
+-2.0 2.0

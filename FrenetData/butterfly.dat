@@ -1,0 +1,11 @@
+# CAGD
+# Lab 3 - Visualization of the Frenet Frame
+
+SIN(T)*(EXP(COS(T))-2*COS(4*T)-(SIN(T/12))^5)
+COS(T)*(EXP(COS(T))-2*COS(4*T)-(SIN(T/12))^5)
+0
+
+#
+# And its domain:
+#
+0, 74.0

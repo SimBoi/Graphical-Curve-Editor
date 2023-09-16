@@ -1,0 +1,7 @@
+#
+# This is a 'boreg' like curve !?
+#
+ln(t+1)*sin(3*t)/8
+t*0.08
+ln(t+1)*cos(3*t)/8
+0.0 12.566371

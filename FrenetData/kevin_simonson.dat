@@ -1,0 +1,9 @@
+# CAGD Lab 3   Kevin Simonson
+#
+# This curve makes five loops around the edge of the unit sphere.
+
+sin(5*t) * cos(t)
+sin(5*t) * sin(t)
+cos(5*t)
+
+0.0 6.28

@@ -1,0 +1,14 @@
+#
+# Brian Stevens
+# 529-55-2326
+#
+# A tangled knot
+#
+1/t*cos(17*t)
+cos(t)*sin(10*t)
+t*cos(3*t)^5
+
+#
+# And its domain:
+#
+0	6.28

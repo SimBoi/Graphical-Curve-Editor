@@ -1,0 +1,11 @@
+# Paul's interesting curve
+#  Could someone please think of a name for this curve.
+#  Or just tell me what it looks like.
+# But without knowing what it is it still looks interesting.
+#
+sin(t) + 0.5
+sin(5*t)*cos(5*t)
+cos(10*t)*cos(10*t) -0.5
+#
+#
+-3.15 3.15

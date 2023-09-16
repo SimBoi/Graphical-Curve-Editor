@@ -1,0 +1,12 @@
+#
+# This curve moves on a sphere (can you proof it? its easy!).
+#
+cos( t ) * cos( t * 16 )
+cos( t ) * sin( t * 16 )
+sin( t )
+
+#
+# And its domain:
+#
+-1.5708	1.5708
+

@@ -1,0 +1,11 @@
+#
+# This one is the same curve as in example1.c.
+#
+sin( t )
+cos( t )
+sin( 8.0 * t ) / 3.0
+
+#
+# And its domain:
+#
+0	6.283185

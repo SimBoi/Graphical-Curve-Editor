@@ -1,0 +1,17 @@
+#
+# Donut, anyone?
+#
+# Kyle Johns
+# CS 667
+# Data file for Frenet Frame Lab
+#
+
+(1.75+cos(1.05*t))*sin( t )/3
+(1.75+cos(1.05*t))*cos( t )/3
+sin(1.05*t)/3
+
+#
+# And its domain:
+#
+
+0	125.6637062

@@ -1,0 +1,15 @@
+# CS 667 - CAGD
+# Lab 3 - Visualization of the Frenet Frame
+# November 8th 1990
+# This is Greg Heflin's contribution to the frenet data directory.
+# Palm Tree?
+# Replace 5's with 25's for Wicked Chinese Throwing Star.
+#
+cos( t*5 ) * sin( t*2 )
+0 - (cos( t*5 ) * cos( t*2 ))
+(t/2)^2 
+
+#
+# And its domain:
+#
+-1.5708	1.5708

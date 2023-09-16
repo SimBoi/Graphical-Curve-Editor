@@ -1,0 +1,8 @@
+# Project #3 data file:  Visualizing the moving frenet frame
+# by: Michael S. Blum
+
+sin(4*t)*cos(6*t)
+sin(3*t)
+cos(3*t)
+
+0 6.28318

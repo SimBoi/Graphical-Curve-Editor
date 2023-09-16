@@ -1,0 +1,13 @@
+sin(3*t)*cos(2*t) + .5*sin(3*t)
+
+
+
+sin(3*t) + cos(2*t)
+
+#
+# hi scott
+0.25*t*sin(5*t)
+
+# these line include tmin and tmax seperated by white space
+
+0 6.2831854

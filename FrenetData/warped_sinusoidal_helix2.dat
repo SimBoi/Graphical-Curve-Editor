@@ -1,0 +1,7 @@
+# Parametric Curve for CAGD Lab2
+# Author: Avishay Sidlesky (using frenet.exe)
+
+sin(T*10)*sin(T)
+cos(T*10)*sin(T)+sin(T)
+cos(T*4)
+0 6.28

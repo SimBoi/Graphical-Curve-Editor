@@ -1,0 +1,8 @@
+#  Marc Jacobsen
+#  A 2-D six petal flower type shape
+
+cos(t)/(sin(2*t) + 2)
+sin(t/3) * cos(t)
+0
+
+-12.0 12.0

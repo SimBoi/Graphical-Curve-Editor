@@ -1,0 +1,11 @@
+# CAGD (CS 667)
+# Elena's data file for Lab 3
+#
+# Displaced figure-8's
+#
+
+0.5 * (cos(t) * sin(t) + 0.1 * t)
+0.8 * sin(t)
+cos(t) * sin(t) + 0.1 * t
+#
+0 9

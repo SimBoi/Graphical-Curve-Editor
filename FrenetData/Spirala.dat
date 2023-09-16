@@ -1,0 +1,29 @@
+#
+# Spirala
+#
+# Tzuriel Naaman
+# 30/04/2020
+# Dedicated to Coronavirus
+#
+
+#
+# R = the initial radius
+#
+# The parametrization formula is:
+# x = R * exp(v) * cos(u)
+# y = R * exp(v) * sin(u)
+# z = R * v
+#
+# Here u = 20v, R = 0.01
+#
+
+
+exp(t)*cos(20*t)/100
+exp(t)*sin(20*t)/100
+t/100
+
+#
+# Time:
+#
+
+0 6.28

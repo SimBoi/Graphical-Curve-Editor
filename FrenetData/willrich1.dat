@@ -1,0 +1,12 @@
+#
+#	CAGD Project 3		Bill Richardson
+#
+#	This is a 3D cycloid
+#
+
+sin(3*t)/3
+cos(2*t)/2
+sin(4*t)/4
+
+0 6.3
+

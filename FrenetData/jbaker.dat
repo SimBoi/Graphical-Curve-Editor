@@ -1,0 +1,7 @@
+# John Baker  CS667  lab3 data file
+# A bent figure-8
+
+sin(t*0.5*3.14159)
+cos(t*3.14159)
+sin(t*3.14159)
+-2 2

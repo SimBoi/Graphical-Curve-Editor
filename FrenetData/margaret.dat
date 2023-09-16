@@ -1,0 +1,13 @@
+#
+# This is my not so interesting curve.
+#
+# Let Us enjoy this enjoy this we still can....
+#
+#	Malgorzata Marek Sturgill
+#
+
+(t*sin(t) + t)/2 - 0.5
+t*sin(t)*cos(t)
+t^2
+
+-2.14 2.14

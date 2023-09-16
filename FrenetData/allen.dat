@@ -1,0 +1,8 @@
+#  Allen's interesting curve - a potatoe chip.
+
+
+sin(t) * cos(t) * .5
+cos(t) * .5
+sin(t) * .25
+
+0., 6.2832

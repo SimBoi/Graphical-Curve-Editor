@@ -1,0 +1,12 @@
+#file by Mihir Mehta
+# use F1 key i.e x-y rotate, to see the curve change "planes"
+
+
+0.3*(2 + cos(8*(t-3.14156/2))) * sin(t) * cos(8*(t-3.14156/2))
+0.3*(2 + cos(8*(t-3.14156/2))) * sin(t) * sin(8*(t-3.14156/2))
+0.3*(2 + cos(8*(t-3.14156/2))) * cos(t) 
+#
+#
+0.0  6.3 
+
+

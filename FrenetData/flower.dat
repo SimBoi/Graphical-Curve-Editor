@@ -1,0 +1,5 @@
+# Powered by Gregory Kovriga
+0.5*(SIN(3*T)+0.5)*(SIN(3*T)+0.5) * SIN(T)
+0.5*(SIN(3*T)+0.5)*(SIN(3*T)+0.5) * COS(T)
+0.1 * SIN(3*T)
+0 6.283

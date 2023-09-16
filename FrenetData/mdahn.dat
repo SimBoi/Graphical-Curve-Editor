@@ -1,0 +1,10 @@
+# CS667 Lab 3
+# Myron Ahn 11/19/91
+# a random curve
+
+(t*cos(t)+t^2-16)/16
+(sin(t^1.4)+t-4)/3
+cos(t^1.8)/2
+
+# curve limits
+3 5

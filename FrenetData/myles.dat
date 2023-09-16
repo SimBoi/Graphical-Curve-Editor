@@ -1,0 +1,10 @@
+# This one has a C(1) discontinuity at zero -- it doubles back on itself
+cos(t)
+0.25*sin(t^2)
+0.25*cos(t^2)
+
+-10.0 10.0
+
+# try 
+# x(t) = sin(t) or x(t) = t^2
+# smaller and larger (symmetric) ranges

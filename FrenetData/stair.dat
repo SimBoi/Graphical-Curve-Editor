@@ -1,0 +1,10 @@
+#
+# This is a test file for Lab3 CS667
+# Original idea from text: COMPUTER GRAPHICS by F.S.Hill pg 139
+#
+cos(t) + sin( 8 * t )
+2 * sin(t) + sin( 7 * t )
+t
+#
+
+-6.28318  6.28318

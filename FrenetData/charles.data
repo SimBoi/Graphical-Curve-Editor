@@ -1,0 +1,15 @@
+
+#
+#   Datafile for CAGD
+#
+#   Submitted by Charles Black
+#
+#   Comments:  A vertically squiggly curve,
+#	       may need to expand viewing area . . .
+#
+
+3.14*sin(cos(t*3.14))
+(t^3-t^2+t-1)/6.28/2
+t^2
+-6.28 6.28
+

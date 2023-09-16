@@ -1,0 +1,32 @@
+#
+# Klein Bottle - The Figure 8 Immersion
+#
+# Tzuriel Naaman
+# 30/04/2020
+# Dedicated to Coronavirus
+#
+
+#
+# https://en.wikipedia.org/wiki/Klein_bottle#/media/File:KleinBottle-Figure8-01.svg
+#
+# R1 = the size of the bottle
+# R2 = location
+#
+# The parametrization formula is:
+# x = R1 * (R2 + cos(v/2) * sin(u) - sin(v/2) * sin(2u))*cos(t)
+# y = R1 * (R2 + cos(v/2) * sin(u) - sin(v/2) * sin(2u))*sin(t)
+# z = R1 * sin(v/2)*sin(u)+cos(v/2)*sin(2u)
+#
+# Here u = 20v, R1 = 0.2, R2 = 0.5.
+#
+
+
+(0.5+cos(t/2)*sin(20*t)-sin(t/2)*sin(40*t))*cos(t)/5
+(0.5+cos(t/2)*sin(20*t)-sin(t/2)*sin(40*t))*sin(t)/5
+sin(t/2)*sin(20*t)+cos(t/2)*sin(40*t)/5
+
+#
+# Time:
+#
+
+0 6.28

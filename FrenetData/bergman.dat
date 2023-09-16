@@ -1,0 +1,9 @@
+#	Bergman.dat - by Eran Bergman 1999	
+#	----------------------------------		
+#	a very cool jungle hat.	
+
+t*cos(t^3)
+t*sin(t^3)
+sin(t)
+
+0 5

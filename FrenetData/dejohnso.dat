@@ -1,0 +1,8 @@
+# A pretty star - until you rotate it!
+
+
+cos(t) * cos(t) * cos(t)
+sin(t) * sin(t) * sin(t)
+t
+
+0.0 10.0

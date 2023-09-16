@@ -1,0 +1,33 @@
+#
+# Torus
+#
+# Tzuriel Naaman
+# 30/04/2020
+# Dedicated to Coronavirus
+#
+
+#
+# https://web.maths.unsw.edu.au/~rsw/Torus/torus1.jpg
+#
+# R1 = the average bitween the external
+#      and the internal radii.
+# R2 = thickness
+#
+# The parametrization formula is:
+# x = (R1 + R2 * cos(v)) * cos(u)
+# y = (R1 + R2 * cos(v)) * sin(u)
+# z = R2 * sin(v)
+#
+# Here u = 20v, R1 = 0.5, R2 = 0.2.
+#
+
+
+(0.5+0.2*cos(t))*cos(20*t)
+(0.5+0.2*cos(t))*sin(20*t)
+0.2*sin(t)
+
+#
+# Time:
+#
+
+0 6.28

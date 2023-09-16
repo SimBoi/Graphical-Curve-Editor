@@ -1,0 +1,11 @@
+#
+# Elipsoide
+#
+#  Yarden Livnat Nov.91
+#
+0.5*sin(t)*cos(20*t)
+0.5*sin(t)*sin(20*t)
+1*cos(t)
+#
+0 6.28
+#

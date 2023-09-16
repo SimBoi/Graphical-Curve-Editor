@@ -1,0 +1,11 @@
+# This is Brian Stevens file
+# It is a very simple figure eight
+
+3
+
+-1.0 -1.0 1.0
+1.0 1.0 1.0
+-1.0 1.0 1.0
+1.0 -1.0 1.0
+-1.0 -1.0 1.0
+1.0 1.0 1.0

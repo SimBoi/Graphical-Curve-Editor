@@ -1,0 +1,8 @@
+# Marc Jacobsen
+# An odd double self intersecting thing
+
+cos(t)/(sin(2*t) + 2)
+sin(t/3) * cos(t)
+cos(5*t)/(sin(2*t)+3)
+
+-12.0 12.0

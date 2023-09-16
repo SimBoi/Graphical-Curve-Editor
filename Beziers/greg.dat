@@ -1,0 +1,19 @@
+#  CAGD - CS 667
+#  Lab 5 - Bezier curves and Bernstein approximation
+#  Double loop - by Greg Heflin
+#  Try this with the bezier constructing polygon displayed.
+#  This file was created with Bezier.
+#  Bezier data
+12
+-0.576584 0.692620 1.000000
+-0.609531 -0.772415 1.000000
+0.718258 -0.730921 1.000000
+0.662247 0.705387 1.000000
+-0.546931 0.670277 1.000000
+-0.593057 -0.750072 1.000000
+0.691900 -0.708579 1.000000
+0.632594 0.673469 1.000000
+-0.543636 0.651126 1.000000
+-0.583173 -0.740497 1.000000
+0.688605 -0.708579 1.000000
+0.635889 0.673469 1.000000

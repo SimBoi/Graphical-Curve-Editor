@@ -1,0 +1,24 @@
+#
+# Klein Bottle - Bottle Shape
+#
+# Tzuriel Naaman
+# 30/04/2020
+# Dedicated to Coronavirus
+#
+# Alarm: you must be can read lines in size at least 355 characters to load this file.
+#
+
+#
+# https://en.wikipedia.org/wiki/Klein_bottle#/media/File:Klein_bottle_translucent.png
+#
+
+
+-2*cos(exp(t)/2)*(3*cos(30*exp(t))-30*sin(exp(t)/2)+90*(cos(exp(t)/2))^4*sin(exp(t)/2)-60*(cos(exp(t)/2))^6*sin(exp(t)/2)+5*cos(exp(t)/2)*cos(30*exp(t))*sin(exp(t)/2))/60
+-sin(exp(t)/2)*(3*cos(30*exp(t))-3*(cos(exp(t)/2))^2*cos(30*exp(t))-48*(cos(exp(t)/2))^4*cos(30*exp(t))+48*(cos(exp(t)/2))^6*cos(30*exp(t))-60*sin(exp(t)/2)+5*cos(exp(t)/2)*cos(30*exp(t))*sin(exp(t)/2)-5*(cos(exp(t)/2))^3*cos(30*exp(t))*sin(exp(t)/2)-80*(cos(exp(t)/2))^5*cos(30*exp(t))*sin(exp(t)/2)+80*(cos(exp(t)/2))^7*cos(30*exp(t))*sin(exp(t)/2))/60
+2*(3+5*cos(exp(t)/2)*sin(exp(t)/2))*sin(30*exp(t))/60
+
+#
+# Time:
+#
+
+0 6.28

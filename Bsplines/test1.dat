@@ -1,0 +1,11 @@
+# use the same polygon control points, see what will happen.
+3
+# this is triangle polygon. three control points are the same
+# at each corner.
+0.000000     0.000000     1.000000
+0.1          0.05         1.0
+0.2          0.1          1.0
+0.500000     0.000000     1.00000
+0.45         0.1          1.0
+0.4          0.2          1.0
+0.5          0.500000     1.00000
